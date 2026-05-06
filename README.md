@@ -1,16 +1,21 @@
-## Hi there 👋
+# Fong Shui Capital Corp
 
-<!--
-**FongShuiCapitalCorp/FongShuiCapitalCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Private investment holding company headquartered in [STATE].
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fong Shui Capital Corp ("FSC") is a privately held entity engaged in algorithmic trading and quantitative research for its own corporate account. We do not solicit, manage, or accept funds from outside investors and do not offer any commercial products or services.
+
+## Activities
+
+- Proprietary algorithmic trading systems
+- Quantitative research and backtesting infrastructure
+- Internal portfolio management for own balance sheet
+
+## Contact
+
+For business inquiries: `[your-email@domain.com]`
+
+---
+
+*This profile is maintained for organizational identity purposes. No public software products are distributed from this organization.*
