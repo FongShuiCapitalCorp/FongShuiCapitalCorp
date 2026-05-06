@@ -1,6 +1,6 @@
 # Fong Shui Capital Corp
 
-Private investment holding company headquartered in [STATE].
+Private investment holding company headquartered in Delaware.
 
 ## About
 
