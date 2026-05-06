@@ -14,7 +14,7 @@ Fong Shui Capital Corp ("FSC") is a privately held entity engaged in algorithmic
 
 ## Contact
 
-For business inquiries: `[fongshuitrading@gmail.com]`
+For business inquiries: fongshuitrading@gmail.com
 
 ---
 
